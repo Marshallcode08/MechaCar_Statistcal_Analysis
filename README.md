@@ -21,11 +21,11 @@ Does this linear model predict mpg of MechaCar prototypes effectively? Why or wh
       
 **Summary Statistics on Suspension Coil
 
-    The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch. Does the current manufacturing data meet this design specification for all manufacturing lots in total and each lot individually? Why or why not?
+  The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch. Does the current manufacturing data meet this design specification for all manufacturing lots in total and each lot individually? Why or why not?
     
-    ![Snip20230125_2](https://user-images.githubusercontent.com/112818881/214753791-3da56b00-9fd2-4e71-93b6-538803433587.png)
+  ![Snip20230125_2](https://user-images.githubusercontent.com/112818881/214753791-3da56b00-9fd2-4e71-93b6-538803433587.png)
     
-    I believe that the design does not because you can see large variance between each lots, which is shown in the picture. Please use the picture as a reference to see all the variance it would seem that lot one is the closes lot meet designs requirements.
+   I believe that the design does not because you can see large variance between each lots, which is shown in the picture. Please use the picture as a reference to see all the variance it would seem that lot one is the closes lot meet designs requirements.
     
 **T-Test on Suspension Coils
 
@@ -40,6 +40,13 @@ Does this linear model predict mpg of MechaCar prototypes effectively? Why or wh
       
   From the picture the test simply says there is no true mean a becauase the p values because the value is not above our 0.05 and as a result of the data. We cannot reject the null hypothesis.
 
+
+**Study Design:MechaCar VS. Competition
+
+   Consumer will be very interested in city and highway mileage. The metric we would use MPG and how it varies from highway performance and city performance.
+    - Null hypothesis would be any that would have nothing to do with MPG and has no effect on the outcome whether consumer will find that appealing and does our competitor have factors that interest the consumer.
+    - Alternative hypothesis the consumer are showing that MPG is important to them.
+I would use the two-tailed test to see if the data has equal ends. Data is necessary for statistical test because we need data to find a way to predict an outcome for our hypothesis with information we know.
   
 
         
